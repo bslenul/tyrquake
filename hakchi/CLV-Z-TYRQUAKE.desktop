@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Exec=/bin/sh /var/games/CLV-Z-TYRQUAKE/tyrquake.sh
+Path=/var/saves/CLV-Z-TYRQUAKE
+Name=TyrQuake
+Icon=/var/games/CLV-Z-TYRQUAKE/CLV-Z-TYRQUAKE.png
+
+[X-CLOVER Game]
+Code=CLV-Z-TYRQUAKE
+TestID=0
+ID=0
+Players=1
+Simultaneous=0
+ReleaseDate=1996-06-06
+SaveCount=0
+SortRawTitle=tyrquake
+SortRawPublisher=ID
+Copyright=hakchi2 ©2018 Swingflip
