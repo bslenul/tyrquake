@@ -22,7 +22,7 @@ if [ "$(cat /dev/clovercon1)" = 0800 ] || [ -z "$(cat "$name.txt")" ]; then
     [ "$(ls -d * | grep -iw id1)" ] && quake="$(ls -d * | grep -iw id1)"
   fi
   if [ "$button_id" = 0200 ]; then
-    [ "$(ls -d * | grep -iw hypnotic)" ] && quake="$(ls -d * | grep -iw hypnotic)"
+    [ "$(ls -d * | grep -iw hipnotic)" ] && quake="$(ls -d * | grep -iw hipnotic)"
   fi
   if [ "$button_id" = 0002 ]; then
     [ "$(ls -d * | grep -iw rogue)" ] && quake="$(ls -d * | grep -iw rogue)"
